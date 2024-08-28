@@ -1,0 +1,1 @@
+[font_size=100]Welcome to Menu+ V1.2! This version adds the MOTD, which you are look at right now and a few more things! Have fun!

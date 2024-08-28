@@ -1,1 +1,4 @@
 Welcome to Menu+ V1.2! This version adds the MOTD, which you are look at right now and a few more things! Have fun!, (PS. This MOTD updates LIVE!)
+
+
+[center][img]res://assets/ui/titlecardthumbnails/1_1.png[/img][/center]
